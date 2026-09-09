@@ -357,11 +357,7 @@ with tab_robots:
                 "Win Rate (%)":      "{:.1f}%",
                 "Profit Factor":     "{:.2f}",
                 "Floating PnL ($)":  "${:,.2f}",
-            }).background_gradient(
-                subset=["Historico PnL ($)"],
-                cmap="RdYlGn",
-                vmin=-5000, vmax=15000
-            ),
+            }),
             use_container_width=True,
             hide_index=True,
             height=400
