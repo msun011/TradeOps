@@ -1,0 +1,12 @@
+{
+  "telegram_bot_token": "8783490071:AAFBqSBTzew2JmWxDGrX822qjMXXuq7f4rw",
+  "telegram_chat_id": "451519669",
+  "vps_identifier": "VPS-NatBots",
+  "check_interval_seconds": 60,
+  "notify_on_new_trade": true,
+  "daily_report_hour": 21,
+  "custom_json_folder": "",
+  "supabase_url": "https://sibhvalhyyeqkczwksdd.supabase.co",
+  "supabase_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNpYmh2YWxoeXllcWtjendrc2RkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODg5NzcwODUsImV4cCI6MjEwNDU1MzA4NX0.e-yt1fuAmOHuRUVHT9xAaAPJUto76Llub8mL-zZcX3c",
+  "sync_to_supabase": true
+}
